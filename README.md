@@ -1,4 +1,5 @@
 # Nardy
 UNIX Nardy game
 
-	Start working!
+	1) Start working!
+	2) Need to push in AUR
